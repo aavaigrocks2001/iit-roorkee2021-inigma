@@ -127,3 +127,16 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+#section-2 {
+  display: flex;
+  justify-content: center;
+}
+
+.img-class {
+  margin-left: -7rem;
+}
+
+.column-main-1 {
+  margin-left: 5rem;
+}
